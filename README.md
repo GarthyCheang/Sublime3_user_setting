@@ -1,6 +1,6 @@
 # Sublime3_user_setting
 
-Package
+Package{
   Alignment
   All Autocomplete
   AutoFileName
@@ -15,4 +15,5 @@ Package
   Side Bar
   GitHub
   Tern
-  ColorPicker
+  ColorPicke
+}
