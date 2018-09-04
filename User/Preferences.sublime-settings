@@ -1,0 +1,10 @@
+{
+	"always_show_minimap_viewport": true,
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"highlight_line": true
+}
