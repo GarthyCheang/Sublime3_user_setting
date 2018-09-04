@@ -2,7 +2,7 @@
 
 Package{</br>
   Alignment</br>
-  All Autocomplete</br>
+    All Autocomplete</br>
   AutoFileName</br>
   BracketHighlighter</br>
   Color Highlighter</br>
