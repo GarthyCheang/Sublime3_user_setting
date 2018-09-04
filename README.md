@@ -15,5 +15,5 @@ Package{</br>
   Side Bar</br>
   GitHub</br>
   Tern</br>
-  ColorPicke</br>
+  ColorPicke
 }
