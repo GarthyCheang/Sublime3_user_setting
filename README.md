@@ -1,19 +1,19 @@
 # Sublime3_user_setting
 
-Package{
-  Alignment
-  All Autocomplete
-  AutoFileName
-  BracketHighlighter
-  Color Highlighter
-  CTags
-  DocBlockr
-  Gist
-  Git
-  GitGutter
-  JsFormat
-  Side Bar
-  GitHub
-  Tern
-  ColorPicke
+Package{</br>
+  Alignment</br>
+  All Autocomplete</br>
+  AutoFileName</br>
+  BracketHighlighter</br>
+  Color Highlighter</br>
+  CTags</br>
+  DocBlockr</br>
+  Gist</br>
+  Git</br>
+  GitGutter</br>
+  JsFormat</br>
+  Side Bar</br>
+  GitHub</br>
+  Tern</br>
+  ColorPicke</br>
 }
