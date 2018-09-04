@@ -1,2 +1,1 @@
-# Sublime3_user_setting
-
+# sublime3_setting
