@@ -26,4 +26,8 @@
 	"theme_tab_selected_underlined": true,
 	"theme_tab_size_xxl": true,
 	"theme_unified": true,
+	"theme_scrollbar_line": true,
+	"theme_scrollbar_colored": true,
+	"theme_scrollbar_rounded": true,
+	"theme_scrollbar_semi_overlayed": true,
 }
