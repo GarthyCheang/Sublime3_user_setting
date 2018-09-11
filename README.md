@@ -2,7 +2,7 @@
 
 "installed_packages":
 	[
-		"1337 Color Scheme",
+	        	"1337 Color Scheme",
 		"A File Icon",
 		"Alignment",
 		"All Autocomplete",
