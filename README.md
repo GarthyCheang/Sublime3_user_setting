@@ -1,6 +1,7 @@
 # Sublime3_user_setting
 
 "installed_packages":
+
 	[
 		[tab][tab]"1337 Color Scheme",
 		[tab][tab]"A File Icon",
@@ -24,4 +25,4 @@
 		[tab][tab]"SideBarEnhancements",
 		[tab][tab]"sublime-github",
 		[tab][tab]"Terminal"
-	]
+]
