@@ -29,5 +29,6 @@
 	"theme_tab_selected_transparent": true,
 	"theme_tab_selected_underlined": true,
 	"theme_tab_size_xxl": true,
-	"theme_unified": true
+	"theme_unified": true,
+	"default_line_ending": "unix",
 }
