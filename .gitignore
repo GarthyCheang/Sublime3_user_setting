@@ -1,5 +1,10 @@
 Package\ Control.cache/*
+Color\ Highlighter/*
+*.sublime-settings
 *.crt
 *.last-run
 *.merged-ca-bundle
 *.user-ca-bundle
+
+!Package\ Control.sublime-settings
+!Preferences.sublime-settings
