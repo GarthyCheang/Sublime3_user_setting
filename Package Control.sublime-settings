@@ -28,5 +28,10 @@
 		"SideBarEnhancements",
 		"sublime-github",
 		"Terminal"
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Unity3D",
+		"Unity3D Shader Highlighter and Snippets",
 	]
 }
