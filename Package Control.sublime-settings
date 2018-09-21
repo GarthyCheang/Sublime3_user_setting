@@ -12,6 +12,7 @@
 		"AutoFileName",
 		"Boxy Theme",
 		"Boxy Theme Addon - Font Face",
+		"BracketGuard",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",
@@ -31,6 +32,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-php",
+		"SyncedSideBar",
 		"Terminal",
 		"Unity3D",
 		"Unity3D Shader Highlighter and Snippets"
