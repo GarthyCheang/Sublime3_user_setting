@@ -1,5 +1,6 @@
 {
 	"always_show_minimap_viewport": true,
+	"default_line_ending": "unix",
 	"font_size": 13,
 	"highlight_line": true,
 	"ignored_packages":
@@ -29,6 +30,5 @@
 	"theme_tab_selected_transparent": true,
 	"theme_tab_selected_underlined": true,
 	"theme_tab_size_xxl": true,
-	"theme_unified": true,
-	"default_line_ending": "unix",
+	"theme_unified": true
 }
