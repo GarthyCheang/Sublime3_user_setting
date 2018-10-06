@@ -10,7 +10,7 @@
         "selector": "source.cs"
     }],
     "default_line_ending": "unix",
-    "font_size": 13,
+    "font_size": 16,
     "highlight_line": true,
     "ignored_packages": [
         "Vintage"
