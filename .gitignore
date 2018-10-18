@@ -5,6 +5,9 @@ Color\ Highlighter/*
 *.last-run
 *.merged-ca-bundle
 *.user-ca-bundle
+*.sublime-commands
+*.sublime-color-scheme
+
 
 !Package\ Control.sublime-settings
 !Preferences.sublime-settings
